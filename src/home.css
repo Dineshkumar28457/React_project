@@ -1,0 +1,21 @@
+
+img{
+    height:500px;
+    width:400px;
+    margin-left:10%;
+   
+}
+.home{
+    display: flex;
+    flex-direction: row; 
+    background-image:url("https://thumbs.dreamstime.com/b/blue-water-bubbles-abstract-light-illumination-53164601.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+p{
+    padding-top:25%;
+    margin-left:10%;
+    color:black;
+    font-weight: bold;
+}
